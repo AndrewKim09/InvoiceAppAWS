@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-invoiceapp-dev-d0bed-authRole",
+      "UnauthRoleArn": "arn:aws:iam::796973509955:role/amplify-invoiceapp-dev-d0bed-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::796973509955:role/amplify-invoiceapp-dev-d0bed-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-invoiceapp-dev-d0bed-deployment",
+      "UnauthRoleName": "amplify-invoiceapp-dev-d0bed-unauthRole",
+      "StackName": "amplify-invoiceapp-dev-d0bed",
+      "StackId": "arn:aws:cloudformation:us-east-1:796973509955:stack/amplify-invoiceapp-dev-d0bed/67e64c90-5db3-11ef-bd43-0afff5fdec4b",
+      "AmplifyAppId": "d3hu1k9aj04e16"
+    },
+    "categories": {
+      "function": {
+        "invoiceapp3fe234cc": {
+          "deploymentBucketName": "amplify-invoiceapp-dev-d0bed-deployment",
+          "s3Key": "amplify-builds/invoiceapp3fe234cc-79644e37697047537438-build.zip"
+        }
+      },
+      "api": {
+        "apifcba9178": {}
+      },
+      "auth": {
+        "invoiceapp37d27bec": {}
+      }
+    }
+  }
+}
